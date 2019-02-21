@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/emil/.conda/envs/python2/bin/python"
+}
